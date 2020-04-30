@@ -1,0 +1,765 @@
+,Team 1,Team 2,Winner,Margin,Ground,Match Date,Type
+0,RCB,KKR,KKR,140 runs,Bengaluru,"Apr 18, 2008",T20
+1,Kings XI,Super Kings,Super Kings,33 runs,Mohali,"Apr 19, 2008",T20
+2,Daredevils,Royals,Daredevils,9 wickets,Delhi,"Apr 19, 2008",T20
+3,KKR,Chargers,KKR,5 wickets,Kolkata,"Apr 20, 2008",T20
+4,Mum Indians,RCB,RCB,5 wickets,Mumbai,"Apr 20, 2008",T20
+5,Royals,Kings XI,Royals,6 wickets,Jaipur,"Apr 21, 2008",T20
+6,Chargers,Daredevils,Daredevils,9 wickets,Hyderabad (Deccan),"Apr 22, 2008",T20
+7,Super Kings,Mum Indians,Super Kings,6 runs,Chennai,"Apr 23, 2008",T20
+8,Chargers,Royals,Royals,3 wickets,Hyderabad (Deccan),"Apr 24, 2008",T20
+9,Kings XI,Mum Indians,Kings XI,66 runs,Mohali,"Apr 25, 2008",T20
+10,Super Kings,KKR,Super Kings,9 wickets,Chennai,"Apr 26, 2008",T20
+11,RCB,Royals,Royals,7 wickets,Bengaluru,"Apr 26, 2008",T20
+12,Kings XI,Daredevils,Kings XI,4 wickets,Mohali,"Apr 27, 2008",T20
+13,Mum Indians,Chargers,Chargers,10 wickets,Mumbai,"Apr 27, 2008",T20
+14,RCB,Super Kings,Super Kings,13 runs,Bengaluru,"Apr 28, 2008",T20
+15,KKR,Mum Indians,Mum Indians,7 wickets,Kolkata,"Apr 29, 2008",T20
+16,Daredevils,RCB,Daredevils,10 runs,Delhi,"Apr 30, 2008",T20
+17,Royals,KKR,Royals,45 runs,Jaipur,"May 1, 2008",T20
+18,Chargers,Kings XI,Kings XI,7 wickets,Hyderabad (Deccan),"May 1, 2008",T20
+19,Super Kings,Daredevils,Daredevils,8 wickets,Chennai,"May 2, 2008",T20
+20,RCB,Chargers,RCB,3 runs,Bengaluru,"May 3, 2008",T20
+21,Kings XI,KKR,Kings XI,9 runs,Mohali,"May 3, 2008",T20
+22,Mum Indians,Daredevils,Mum Indians,29 runs,Mumbai,"May 4, 2008",T20
+23,Royals,Super Kings,Royals,8 wickets,Jaipur,"May 4, 2008",T20
+24,RCB,Kings XI,Kings XI,6 wickets,Bengaluru,"May 5, 2008",T20
+25,Super Kings,Chargers,Chargers,7 wickets,Chennai,"May 6, 2008",T20
+26,Mum Indians,Royals,Mum Indians,7 wickets,Mumbai,"May 7, 2008",T20
+27,Daredevils,Super Kings,Super Kings,4 wickets,Delhi,"May 8, 2008",T20
+28,KKR,RCB,KKR,5 runs,Kolkata,"May 8, 2008",T20
+29,Royals,Chargers,Royals,8 wickets,Jaipur,"May 9, 2008",T20
+30,Super Kings,Kings XI,Super Kings,18 runs,Chennai,"May 10, 2008",T20
+31,Chargers,KKR,KKR,23 runs,Hyderabad (Deccan),"May 11, 2008",T20
+32,Royals,Daredevils,Royals,3 wickets,Jaipur,"May 11, 2008",T20
+33,Kings XI,RCB,Kings XI,9 wickets,Mohali,"May 12, 2008",T20
+34,KKR,Daredevils,KKR,23 runs,Kolkata,"May 13, 2008",T20
+35,Mum Indians,Super Kings,Mum Indians,9 wickets,Mumbai,"May 14, 2008",T20
+36,Daredevils,Chargers,Daredevils,12 runs,Delhi,"May 15, 2008",T20
+37,Mum Indians,KKR,Mum Indians,8 wickets,Mumbai,"May 16, 2008",T20
+38,Royals,RCB,Royals,65 runs,Jaipur,"May 17, 2008",T20
+39,Daredevils,Kings XI,Kings XI,6 runs,Delhi,"May 17, 2008",T20
+40,KKR,Super Kings,Super Kings,3 runs,Kolkata,"May 18, 2008",T20
+41,Chargers,Mum Indians,Mum Indians,25 runs,Hyderabad (Deccan),"May 18, 2008",T20
+42,RCB,Daredevils,Daredevils,5 wickets,Bengaluru,"May 19, 2008",T20
+43,KKR,Royals,Royals,6 wickets,Kolkata,"May 20, 2008",T20
+44,Mum Indians,Kings XI,Kings XI,1 run,Mumbai,"May 21, 2008",T20
+45,Super Kings,RCB,RCB,14 runs,Chennai,"May 21, 2008",T20
+46,Daredevils,KKR,abandoned,,Delhi,"May 22, 2008",T20
+47,Kings XI,Chargers,Kings XI,6 wickets,Mohali,"May 23, 2008",T20
+48,Super Kings,Royals,Royals,10 runs,Chennai,"May 24, 2008",T20
+49,Daredevils,Mum Indians,Daredevils,5 wickets,Delhi,"May 24, 2008",T20
+50,Chargers,RCB,RCB,5 wickets,Hyderabad (Deccan),"May 25, 2008",T20
+51,KKR,Kings XI,KKR,3 wickets,Kolkata,"May 25, 2008",T20
+52,Royals,Mum Indians,Royals,5 wickets,Jaipur,"May 26, 2008",T20
+53,Chargers,Super Kings,Super Kings,7 wickets,Hyderabad (Deccan),"May 27, 2008",T20
+54,RCB,Mum Indians,Mum Indians,9 wickets,Bengaluru,"May 28, 2008",T20
+55,Kings XI,Royals,Kings XI,41 runs,Mohali,"May 28, 2008",T20
+56,Daredevils,Royals,Royals,105 runs,Mumbai,"May 30, 2008",T20
+57,Super Kings,Kings XI,Super Kings,9 wickets,Mumbai,"May 31, 2008",T20
+58,Super Kings,Royals,Royals,3 wickets,Mumbai,"Jun 1, 2008",T20
+59,Super Kings,Mum Indians,Mum Indians,19 runs,Cape Town,"Apr 18, 2009",T20
+60,RCB,Royals,RCB,75 runs,Cape Town,"Apr 18, 2009",T20
+61,Daredevils,Kings XI,Daredevils,10 wickets,Cape Town,"Apr 19, 2009",T20
+62,Chargers,KKR,Chargers,8 wickets,Cape Town,"Apr 19, 2009",T20
+63,RCB,Super Kings,Super Kings,92 runs,Port Elizabeth,"Apr 20, 2009",T20
+64,Kings XI,KKR,KKR,11 runs,Durban,"Apr 21, 2009",T20
+65,Mum Indians,Royals,abandoned,,Durban,"Apr 21, 2009",T20
+66,RCB,Chargers,Chargers,24 runs,Cape Town,"Apr 22, 2009",T20
+67,Super Kings,Daredevils,Daredevils,9 runs,Durban,"Apr 23, 2009",T20
+68,KKR,Royals,tied,,Cape Town,"Apr 23, 2009",T20
+69,RCB,Kings XI,Kings XI,7 wickets,Durban,"Apr 24, 2009",T20
+70,Chargers,Mum Indians,Chargers,12 runs,Durban,"Apr 25, 2009",T20
+71,Super Kings,KKR,abandoned,,Cape Town,"Apr 25, 2009",T20
+72,RCB,Daredevils,Daredevils,6 wickets,Port Elizabeth,"Apr 26, 2009",T20
+73,Kings XI,Royals,Kings XI,27 runs,Cape Town,"Apr 26, 2009",T20
+74,Super Kings,Chargers,Chargers,6 wickets,Durban,"Apr 27, 2009",T20
+75,KKR,Mum Indians,Mum Indians,92 runs,Port Elizabeth,"Apr 27, 2009",T20
+76,Daredevils,Royals,Royals,5 wickets,Centurion,"Apr 28, 2009",T20
+77,RCB,KKR,RCB,5 wickets,Durban,"Apr 29, 2009",T20
+78,Kings XI,Mum Indians,Kings XI,3 runs,Durban,"Apr 29, 2009",T20
+79,Chargers,Daredevils,Daredevils,6 wickets,Centurion,"Apr 30, 2009",T20
+80,Super Kings,Royals,Super Kings,38 runs,Centurion,"Apr 30, 2009",T20
+81,KKR,Mum Indians,Mum Indians,9 runs,East London,"May 1, 2009",T20
+82,RCB,Kings XI,RCB,8 runs,Durban,"May 1, 2009",T20
+83,Chargers,Royals,Royals,3 wickets,Port Elizabeth,"May 2, 2009",T20
+84,Super Kings,Daredevils,Super Kings,18 runs,Johannesburg,"May 2, 2009",T20
+85,Kings XI,KKR,Kings XI,6 wickets,Port Elizabeth,"May 3, 2009",T20
+86,RCB,Mum Indians,RCB,9 wickets,Johannesburg,"May 3, 2009",T20
+87,Super Kings,Chargers,Super Kings,78 runs,East London,"May 4, 2009",T20
+88,Kings XI,Royals,Royals,78 runs,Durban,"May 5, 2009",T20
+89,Daredevils,KKR,Daredevils,9 wickets,Durban,"May 5, 2009",T20
+90,Chargers,Mum Indians,Chargers,19 runs,Centurion,"May 6, 2009",T20
+91,RCB,Royals,Royals,7 wickets,Centurion,"May 7, 2009",T20
+92,Super Kings,Kings XI,Super Kings,12 runs,Centurion,"May 7, 2009",T20
+93,Daredevils,Mum Indians,Daredevils,7 wickets,East London,"May 8, 2009",T20
+94,Chargers,Kings XI,Kings XI,3 wickets,Kimberley,"May 9, 2009",T20
+95,Super Kings,Royals,Super Kings,7 wickets,Kimberley,"May 9, 2009",T20
+96,RCB,Mum Indians,Mum Indians,16 runs,Port Elizabeth,"May 10, 2009",T20
+97,Daredevils,KKR,Daredevils,7 wickets,Johannesburg,"May 10, 2009",T20
+98,Chargers,Royals,Chargers,53 runs,Kimberley,"May 11, 2009",T20
+99,RCB,KKR,RCB,6 wickets,Centurion,"May 12, 2009",T20
+100,Kings XI,Mum Indians,Mum Indians,8 wickets,Centurion,"May 12, 2009",T20
+101,Chargers,Daredevils,Daredevils,12 runs,Durban,"May 13, 2009",T20
+102,RCB,Super Kings,RCB,2 wickets,Durban,"May 14, 2009",T20
+103,Mum Indians,Royals,Royals,2 runs,Durban,"May 14, 2009",T20
+104,Daredevils,Kings XI,Kings XI,6 wickets,Bloemfontein,"May 15, 2009",T20
+105,Super Kings,Mum Indians,Super Kings,7 wickets,Port Elizabeth,"May 16, 2009",T20
+106,Chargers,KKR,Chargers,6 wickets,Johannesburg,"May 16, 2009",T20
+107,Chargers,Kings XI,Kings XI,1 run,Johannesburg,"May 17, 2009",T20
+108,Daredevils,Royals,Daredevils,14 runs,Bloemfontein,"May 17, 2009",T20
+109,Super Kings,KKR,KKR,7 wickets,Centurion,"May 18, 2009",T20
+110,RCB,Daredevils,RCB,7 wickets,Johannesburg,"May 19, 2009",T20
+111,KKR,Royals,KKR,4 wickets,Durban,"May 20, 2009",T20
+112,Super Kings,Kings XI,Super Kings,24 runs,Durban,"May 20, 2009",T20
+113,Daredevils,Mum Indians,Daredevils,4 wickets,Centurion,"May 21, 2009",T20
+114,RCB,Chargers,RCB,12 runs,Centurion,"May 21, 2009",T20
+115,Daredevils,Chargers,Chargers,6 wickets,Centurion,"May 22, 2009",T20
+116,RCB,Super Kings,RCB,6 wickets,Johannesburg,"May 23, 2009",T20
+117,RCB,Chargers,Chargers,6 runs,Johannesburg,"May 24, 2009",T20
+118,Chargers,KKR,KKR,11 runs,Mumbai,"Mar 12, 2010",T20
+119,Mum Indians,Royals,Mum Indians,4 runs,Mumbai (BS),"Mar 13, 2010",T20
+120,Kings XI,Daredevils,Daredevils,5 wickets,Mohali,"Mar 13, 2010",T20
+121,KKR,RCB,KKR,7 wickets,Kolkata,"Mar 14, 2010",T20
+122,Super Kings,Chargers,Chargers,31 runs,Chennai,"Mar 14, 2010",T20
+123,Royals,Daredevils,Daredevils,6 wickets,Ahmedabad,"Mar 15, 2010",T20
+124,RCB,Kings XI,RCB,8 wickets,Bengaluru,"Mar 16, 2010",T20
+125,KKR,Super Kings,Super Kings,55 runs,Kolkata,"Mar 16, 2010",T20
+126,Daredevils,Mum Indians,Mum Indians,98 runs,Delhi,"Mar 17, 2010",T20
+127,RCB,Royals,RCB,10 wickets,Bengaluru,"Mar 18, 2010",T20
+128,Daredevils,Super Kings,Super Kings,5 wickets,Delhi,"Mar 19, 2010",T20
+129,Chargers,Kings XI,Chargers,6 runs,Cuttack,"Mar 19, 2010",T20
+130,Royals,KKR,Royals,34 runs,Ahmedabad,"Mar 20, 2010",T20
+131,Mum Indians,RCB,RCB,7 wickets,Mumbai (BS),"Mar 20, 2010",T20
+132,Chargers,Daredevils,Chargers,10 runs,Cuttack,"Mar 21, 2010",T20
+133,Super Kings,Kings XI,tied,,Chennai,"Mar 21, 2010",T20
+134,Mum Indians,KKR,Mum Indians,7 wickets,Mumbai (BS),"Mar 22, 2010",T20
+135,RCB,Super Kings,RCB,36 runs,Bengaluru,"Mar 23, 2010",T20
+136,Kings XI,Royals,Royals,31 runs,Mohali,"Mar 24, 2010",T20
+137,RCB,Daredevils,Daredevils,17 runs,Bengaluru,"Mar 25, 2010",T20
+138,Mum Indians,Super Kings,Mum Indians,5 wickets,Mumbai (BS),"Mar 25, 2010",T20
+139,Royals,Chargers,Royals,8 wickets,Ahmedabad,"Mar 26, 2010",T20
+140,Kings XI,KKR,KKR,39 runs,Mohali,"Mar 27, 2010",T20
+141,Royals,Super Kings,Royals,17 runs,Ahmedabad,"Mar 28, 2010",T20
+142,Chargers,Mum Indians,Mum Indians,41 runs,Mumbai,"Mar 28, 2010",T20
+143,Daredevils,KKR,Daredevils,40 runs,Delhi,"Mar 29, 2010",T20
+144,Mum Indians,Kings XI,Mum Indians,4 wickets,Mumbai (BS),"Mar 30, 2010",T20
+145,Super Kings,RCB,Super Kings,5 wickets,Chennai,"Mar 31, 2010",T20
+146,Daredevils,Royals,Daredevils,67 runs,Delhi,"Mar 31, 2010",T20
+147,KKR,Chargers,KKR,24 runs,Kolkata,"Apr 1, 2010",T20
+148,Kings XI,RCB,RCB,6 wickets,Mohali,"Apr 2, 2010",T20
+149,Super Kings,Royals,Super Kings,23 runs,Chennai,"Apr 3, 2010",T20
+150,Mum Indians,Chargers,Mum Indians,63 runs,Mumbai (BS),"Apr 3, 2010",T20
+151,KKR,Kings XI,Kings XI,8 wickets,Kolkata,"Apr 4, 2010",T20
+152,Daredevils,RCB,Daredevils,37 runs,Delhi,"Apr 4, 2010",T20
+153,Chargers,Royals,Royals,2 runs,Nagpur,"Apr 5, 2010",T20
+154,Super Kings,Mum Indians,Super Kings,24 runs,Chennai,"Apr 6, 2010",T20
+155,Royals,Kings XI,Royals,9 wickets,Jaipur,"Apr 7, 2010",T20
+156,KKR,Daredevils,KKR,14 runs,Kolkata,"Apr 7, 2010",T20
+157,RCB,Chargers,Chargers,7 wickets,Bengaluru,"Apr 8, 2010",T20
+158,Kings XI,Mum Indians,Kings XI,6 wickets,Mohali,"Apr 9, 2010",T20
+159,Chargers,Super Kings,Chargers,6 wickets,Nagpur,"Apr 10, 2010",T20
+160,RCB,KKR,RCB,7 wickets,Bengaluru,"Apr 10, 2010",T20
+161,Daredevils,Kings XI,Kings XI,7 wickets,Delhi,"Apr 11, 2010",T20
+162,Royals,Mum Indians,Mum Indians,37 runs,Jaipur,"Apr 11, 2010",T20
+163,Chargers,RCB,Chargers,13 runs,Nagpur,"Apr 12, 2010",T20
+164,Mum Indians,Daredevils,Mum Indians,39 runs,Mumbai (BS),"Apr 13, 2010",T20
+165,Super Kings,KKR,Super Kings,9 wickets,Chennai,"Apr 13, 2010",T20
+166,Royals,RCB,RCB,5 wickets,Jaipur,"Apr 14, 2010",T20
+167,Super Kings,Daredevils,Daredevils,6 wickets,Chennai,"Apr 15, 2010",T20
+168,Kings XI,Chargers,Chargers,5 wickets,Dharamsala,"Apr 16, 2010",T20
+169,RCB,Mum Indians,Mum Indians,57 runs,Bengaluru,"Apr 17, 2010",T20
+170,KKR,Royals,KKR,8 wickets,Kolkata,"Apr 17, 2010",T20
+171,Kings XI,Super Kings,Super Kings,6 wickets,Dharamsala,"Apr 18, 2010",T20
+172,Daredevils,Chargers,Chargers,11 runs,Delhi,"Apr 18, 2010",T20
+173,KKR,Mum Indians,KKR,9 wickets,Kolkata,"Apr 19, 2010",T20
+174,RCB,Mum Indians,Mum Indians,35 runs,Mumbai,"Apr 21, 2010",T20
+175,Super Kings,Chargers,Super Kings,38 runs,Mumbai,"Apr 22, 2010",T20
+176,RCB,Chargers,RCB,9 wickets,Mumbai,"Apr 24, 2010",T20
+177,Super Kings,Mum Indians,Super Kings,22 runs,Mumbai,"Apr 25, 2010",T20
+178,Super Kings,KKR,Super Kings,2 runs,Chennai,"Apr 8, 2011",T20
+179,Chargers,Royals,Royals,8 wickets,Hyderabad (Deccan),"Apr 9, 2011",T20
+180,Kochi,RCB,RCB,6 wickets,Kochi,"Apr 9, 2011",T20
+181,Daredevils,Mum Indians,Mum Indians,8 wickets,Delhi,"Apr 10, 2011",T20
+182,Warriors,Kings XI,Warriors,7 wickets,Mumbai,"Apr 10, 2011",T20
+183,KKR,Chargers,KKR,9 runs,Kolkata,"Apr 11, 2011",T20
+184,Royals,Daredevils,Royals,6 wickets,Jaipur,"Apr 12, 2011",T20
+185,RCB,Mum Indians,Mum Indians,9 wickets,Bengaluru,"Apr 12, 2011",T20
+186,Kings XI,Super Kings,Kings XI,6 wickets,Mohali,"Apr 13, 2011",T20
+187,Warriors,Kochi,Warriors,4 wickets,Mumbai,"Apr 13, 2011",T20
+188,Chargers,RCB,Chargers,33 runs,Hyderabad (Deccan),"Apr 14, 2011",T20
+189,Royals,KKR,KKR,9 wickets,Jaipur,"Apr 15, 2011",T20
+190,Mum Indians,Kochi,Kochi,8 wickets,Mumbai,"Apr 15, 2011",T20
+191,Super Kings,RCB,Super Kings,21 runs,Chennai,"Apr 16, 2011",T20
+192,Chargers,Kings XI,Kings XI,8 wickets,Hyderabad (Deccan),"Apr 16, 2011",T20
+193,Warriors,Daredevils,Daredevils,3 wickets,Mumbai,"Apr 17, 2011",T20
+194,KKR,Royals,KKR,8 wickets,Kolkata,"Apr 17, 2011",T20
+195,Kochi,Super Kings,Kochi,7 wickets,Kochi,"Apr 18, 2011",T20
+196,Daredevils,Chargers,Chargers,16 runs,Delhi,"Apr 19, 2011",T20
+197,RCB,Royals,abandoned,,Bengaluru,"Apr 19, 2011",T20
+198,Mum Indians,Warriors,Mum Indians,7 wickets,Mumbai,"Apr 20, 2011",T20
+199,KKR,Kochi,Kochi,6 runs,Kolkata,"Apr 20, 2011",T20
+200,Kings XI,Royals,Kings XI,48 runs,Mohali,"Apr 21, 2011",T20
+201,KKR,RCB,RCB,9 wickets,Kolkata,"Apr 22, 2011",T20
+202,Mum Indians,Super Kings,Mum Indians,8 runs,Mumbai,"Apr 22, 2011",T20
+203,Daredevils,Kings XI,Daredevils,29 runs,Delhi,"Apr 23, 2011",T20
+204,Chargers,Mum Indians,Mum Indians,37 runs,Hyderabad (Deccan),"Apr 24, 2011",T20
+205,Royals,Kochi,Royals,8 wickets,Jaipur,"Apr 24, 2011",T20
+206,Super Kings,Warriors,Super Kings,25 runs,Chennai,"Apr 25, 2011",T20
+207,Daredevils,RCB,RCB,3 wickets,Delhi,"Apr 26, 2011",T20
+208,Warriors,Super Kings,Super Kings,8 wickets,Mumbai,"Apr 27, 2011",T20
+209,Kochi,Chargers,Chargers,55 runs,Kochi,"Apr 27, 2011",T20
+210,Daredevils,KKR,KKR,17 runs,Delhi,"Apr 28, 2011",T20
+211,Royals,Mum Indians,Royals,7 wickets,Jaipur,"Apr 29, 2011",T20
+212,RCB,Warriors,RCB,26 runs,Bengaluru,"Apr 29, 2011",T20
+213,Kochi,Daredevils,Daredevils,38 runs,Kochi,"Apr 30, 2011",T20
+214,KKR,Kings XI,KKR,8 wickets,Kolkata,"Apr 30, 2011",T20
+215,Royals,Warriors,Royals,6 wickets,Jaipur,"May 1, 2011",T20
+216,Super Kings,Chargers,Super Kings,19 runs,Chennai,"May 1, 2011",T20
+217,Mum Indians,Kings XI,Mum Indians,23 runs,Mumbai,"May 2, 2011",T20
+218,Daredevils,Kochi,Kochi,7 wickets,Delhi,"May 2, 2011",T20
+219,Chargers,KKR,KKR,20 runs,Hyderabad (Deccan),"May 3, 2011",T20
+220,Super Kings,Royals,Super Kings,8 wickets,Chennai,"May 4, 2011",T20
+221,Warriors,Mum Indians,Mum Indians,21 runs,Mumbai,"May 4, 2011",T20
+222,Kochi,KKR,Kochi,17 runs,Kochi,"May 5, 2011",T20
+223,Chargers,Daredevils,Daredevils,4 wickets,Hyderabad (Deccan),"May 5, 2011",T20
+224,RCB,Kings XI,RCB,85 runs,Bengaluru,"May 6, 2011",T20
+225,KKR,Super Kings,KKR,10 runs,Kolkata,"May 7, 2011",T20
+226,Mum Indians,Daredevils,Mum Indians,32 runs,Mumbai,"May 7, 2011",T20
+227,RCB,Kochi,RCB,9 wickets,Bengaluru,"May 8, 2011",T20
+228,Kings XI,Warriors,Warriors,5 wickets,Mohali,"May 8, 2011",T20
+229,Royals,Super Kings,Super Kings,63 runs,Jaipur,"May 9, 2011",T20
+230,Chargers,Warriors,Warriors,6 wickets,Hyderabad (Deccan),"May 10, 2011",T20
+231,Kings XI,Mum Indians,Kings XI,76 runs,Mohali,"May 10, 2011",T20
+232,Royals,RCB,RCB,9 wickets,Jaipur,"May 11, 2011",T20
+233,Super Kings,Daredevils,Super Kings,18 runs,Chennai,"May 12, 2011",T20
+234,Kochi,Kings XI,Kings XI,6 wickets,Indore,"May 13, 2011",T20
+235,RCB,KKR,RCB,4 wickets,Bengaluru,"May 14, 2011",T20
+236,Mum Indians,Chargers,Chargers,10 runs,Mumbai,"May 14, 2011",T20
+237,Kings XI,Daredevils,Kings XI,29 runs,Dharamsala,"May 15, 2011",T20
+238,Kochi,Royals,Kochi,8 wickets,Indore,"May 15, 2011",T20
+239,Warriors,Chargers,Chargers,6 wickets,Mumbai,"May 16, 2011",T20
+240,Kings XI,RCB,Kings XI,111 runs,Dharamsala,"May 17, 2011",T20
+241,Super Kings,Kochi,Super Kings,11 runs,Chennai,"May 18, 2011",T20
+242,Warriors,KKR,KKR,7 wickets,Mumbai,"May 19, 2011",T20
+243,Mum Indians,Royals,Royals,10 wickets,Mumbai,"May 20, 2011",T20
+244,Kings XI,Chargers,Chargers,82 runs,Dharamsala,"May 21, 2011",T20
+245,Daredevils,Warriors,no result,,Delhi,"May 21, 2011",T20
+246,RCB,Super Kings,RCB,8 wickets,Bengaluru,"May 22, 2011",T20
+247,KKR,Mum Indians,Mum Indians,5 wickets,Kolkata,"May 22, 2011",T20
+248,RCB,Super Kings,Super Kings,6 wickets,Mumbai,"May 24, 2011",T20
+249,KKR,Mum Indians,Mum Indians,4 wickets,Mumbai,"May 25, 2011",T20
+250,RCB,Mum Indians,RCB,43 runs,Chennai,"May 27, 2011",T20
+251,Super Kings,RCB,Super Kings,58 runs,Chennai,"May 28, 2011",T20
+252,Super Kings,Mum Indians,Mum Indians,8 wickets,Chennai,"Apr 4, 2012",T20
+253,KKR,Daredevils,Daredevils,8 wickets,Kolkata,"Apr 5, 2012",T20
+254,Mum Indians,Warriors,Warriors,28 runs,Mumbai,"Apr 6, 2012",T20
+255,Royals,Kings XI,Royals,31 runs,Jaipur,"Apr 6, 2012",T20
+256,RCB,Daredevils,RCB,20 runs,Bengaluru,"Apr 7, 2012",T20
+257,Chargers,Super Kings,Super Kings,74 runs,Visakhapatnam,"Apr 7, 2012",T20
+258,Royals,KKR,Royals,22 runs,Jaipur,"Apr 8, 2012",T20
+259,Warriors,Kings XI,Warriors,22 runs,Pune,"Apr 8, 2012",T20
+260,Chargers,Mum Indians,Mum Indians,5 wickets,Visakhapatnam,"Apr 9, 2012",T20
+261,RCB,KKR,KKR,42 runs,Bengaluru,"Apr 10, 2012",T20
+262,Daredevils,Super Kings,Daredevils,8 wickets,Delhi,"Apr 10, 2012",T20
+263,Mum Indians,Royals,Mum Indians,27 runs,Mumbai,"Apr 11, 2012",T20
+264,Super Kings,RCB,Super Kings,5 wickets,Chennai,"Apr 12, 2012",T20
+265,Kings XI,Warriors,Kings XI,7 wickets,Mohali,"Apr 12, 2012",T20
+266,KKR,Royals,KKR,5 wickets,Kolkata,"Apr 13, 2012",T20
+267,Warriors,Super Kings,Warriors,7 wickets,Pune,"Apr 14, 2012",T20
+268,KKR,Kings XI,Kings XI,2 runs,Kolkata,"Apr 15, 2012",T20
+269,RCB,Royals,Royals,59 runs,Bengaluru,"Apr 15, 2012",T20
+270,Mum Indians,Daredevils,Daredevils,7 wickets,Mumbai,"Apr 16, 2012",T20
+271,Royals,Chargers,Royals,5 wickets,Jaipur,"Apr 17, 2012",T20
+272,RCB,Warriors,RCB,6 wickets,Bengaluru,"Apr 17, 2012",T20
+273,Kings XI,KKR,KKR,8 wickets,Mohali,"Apr 18, 2012",T20
+274,Daredevils,Chargers,Daredevils,5 wickets,Delhi,"Apr 19, 2012",T20
+275,Super Kings,Warriors,Super Kings,13 runs,Chennai,"Apr 19, 2012",T20
+276,Kings XI,RCB,RCB,5 wickets,Mohali,"Apr 20, 2012",T20
+277,Super Kings,Royals,Super Kings,7 wickets,Chennai,"Apr 21, 2012",T20
+278,Daredevils,Warriors,Warriors,20 runs,Delhi,"Apr 21, 2012",T20
+279,Mum Indians,Kings XI,Kings XI,6 wickets,Mumbai,"Apr 22, 2012",T20
+280,Chargers,KKR,KKR,5 wickets,Cuttack,"Apr 22, 2012",T20
+281,Royals,RCB,RCB,46 runs,Jaipur,"Apr 23, 2012",T20
+282,Warriors,Daredevils,Daredevils,8 wickets,Pune,"Apr 24, 2012",T20
+283,KKR,Chargers,abandoned,,Kolkata,"Apr 24, 2012",T20
+284,Kings XI,Mum Indians,Mum Indians,4 wickets,Mohali,"Apr 25, 2012",T20
+285,RCB,Super Kings,no result,,Bengaluru,"Apr 25, 2012",T20
+286,Warriors,Chargers,Chargers,18 runs,Pune,"Apr 26, 2012",T20
+287,Daredevils,Mum Indians,Daredevils,37 runs,Delhi,"Apr 27, 2012",T20
+288,Super Kings,Kings XI,Kings XI,7 runs,Chennai,"Apr 28, 2012",T20
+289,KKR,RCB,KKR,47 runs,Kolkata,"Apr 28, 2012",T20
+290,Daredevils,Royals,Daredevils,1 run,Delhi,"Apr 29, 2012",T20
+291,Mum Indians,Chargers,Mum Indians,5 wickets,Mumbai,"Apr 29, 2012",T20
+292,Super Kings,KKR,KKR,5 wickets,Chennai,"Apr 30, 2012",T20
+293,Chargers,Warriors,Chargers,13 runs,Cuttack,"May 1, 2012",T20
+294,Royals,Daredevils,Daredevils,6 wickets,Jaipur,"May 1, 2012",T20
+295,RCB,Kings XI,Kings XI,4 wickets,Bengaluru,"May 2, 2012",T20
+296,Warriors,Mum Indians,Mum Indians,1 run,Pune,"May 3, 2012",T20
+297,Super Kings,Chargers,Super Kings,10 runs,Chennai,"May 4, 2012",T20
+298,KKR,Warriors,KKR,7 runs,Kolkata,"May 5, 2012",T20
+299,Kings XI,Royals,Royals,43 runs,Mohali,"May 5, 2012",T20
+300,Mum Indians,Super Kings,Mum Indians,2 wickets,Mumbai,"May 6, 2012",T20
+301,RCB,Chargers,RCB,5 wickets,Bengaluru,"May 6, 2012",T20
+302,Daredevils,KKR,KKR,6 wickets,Delhi,"May 7, 2012",T20
+303,Warriors,Royals,Royals,7 wickets,Pune,"May 8, 2012",T20
+304,Chargers,Kings XI,Kings XI,25 runs,Hyderabad (Deccan),"May 8, 2012",T20
+305,Mum Indians,RCB,RCB,9 wickets,Mumbai,"May 9, 2012",T20
+306,Chargers,Daredevils,Daredevils,9 wickets,Hyderabad (Deccan),"May 10, 2012",T20
+307,Royals,Super Kings,Super Kings,4 wickets,Jaipur,"May 10, 2012",T20
+308,Warriors,RCB,RCB,35 runs,Pune,"May 11, 2012",T20
+309,KKR,Mum Indians,Mum Indians,27 runs,Kolkata,"May 12, 2012",T20
+310,Super Kings,Daredevils,Super Kings,9 wickets,Chennai,"May 12, 2012",T20
+311,Royals,Warriors,Royals,45 runs,Jaipur,"May 13, 2012",T20
+312,Kings XI,Chargers,Kings XI,4 wickets,Mohali,"May 13, 2012",T20
+313,RCB,Mum Indians,Mum Indians,5 wickets,Bengaluru,"May 14, 2012",T20
+314,KKR,Super Kings,Super Kings,5 wickets,Kolkata,"May 14, 2012",T20
+315,Daredevils,Kings XI,Daredevils,5 wickets,Delhi,"May 15, 2012",T20
+316,Mum Indians,KKR,KKR,32 runs,Mumbai,"May 16, 2012",T20
+317,Kings XI,Super Kings,Kings XI,6 wickets,Dharamsala,"May 17, 2012",T20
+318,Daredevils,RCB,RCB,21 runs,Delhi,"May 17, 2012",T20
+319,Chargers,Royals,Chargers,5 wickets,Hyderabad (Deccan),"May 18, 2012",T20
+320,Kings XI,Daredevils,Daredevils,6 wickets,Dharamsala,"May 19, 2012",T20
+321,Warriors,KKR,KKR,34 runs,Pune,"May 19, 2012",T20
+322,Chargers,RCB,Chargers,9 runs,Hyderabad (Deccan),"May 20, 2012",T20
+323,Royals,Mum Indians,Mum Indians,10 wickets,Jaipur,"May 20, 2012",T20
+324,Daredevils,KKR,KKR,18 runs,Pune,"May 22, 2012",T20
+325,Super Kings,Mum Indians,Super Kings,38 runs,Bengaluru,"May 23, 2012",T20
+326,Daredevils,Super Kings,Super Kings,86 runs,Chennai,"May 25, 2012",T20
+327,KKR,Super Kings,KKR,5 wickets,Chennai,"May 27, 2012",T20
+328,KKR,Daredevils,KKR,6 wickets,Kolkata,"Apr 3, 2013",T20
+329,RCB,Mum Indians,RCB,2 runs,Bengaluru,"Apr 4, 2013",T20
+330,Sunrisers,Warriors,Sunrisers,22 runs,Hyderabad (Deccan),"Apr 5, 2013",T20
+331,Daredevils,Royals,Royals,5 runs,Delhi,"Apr 6, 2013",T20
+332,Super Kings,Mum Indians,Mum Indians,9 runs,Chennai,"Apr 6, 2013",T20
+333,Warriors,Kings XI,Kings XI,8 wickets,Pune,"Apr 7, 2013",T20
+334,Sunrisers,RCB,tied,,Hyderabad (Deccan),"Apr 7, 2013",T20
+335,Royals,KKR,Royals,19 runs,Jaipur,"Apr 8, 2013",T20
+336,RCB,Sunrisers,RCB,7 wickets,Bengaluru,"Apr 9, 2013",T20
+337,Mum Indians,Daredevils,Mum Indians,44 runs,Mumbai,"Apr 9, 2013",T20
+338,Kings XI,Super Kings,Super Kings,10 wickets,Mohali,"Apr 10, 2013",T20
+339,RCB,KKR,RCB,8 wickets,Bengaluru,"Apr 11, 2013",T20
+340,Warriors,Royals,Warriors,7 wickets,Pune,"Apr 11, 2013",T20
+341,Daredevils,Sunrisers,Sunrisers,3 wickets,Delhi,"Apr 12, 2013",T20
+342,Mum Indians,Warriors,Mum Indians,41 runs,Mumbai,"Apr 13, 2013",T20
+343,Super Kings,RCB,Super Kings,4 wickets,Chennai,"Apr 13, 2013",T20
+344,KKR,Sunrisers,KKR,48 runs,Kolkata,"Apr 14, 2013",T20
+345,Royals,Kings XI,Royals,6 wickets,Jaipur,"Apr 14, 2013",T20
+346,Super Kings,Warriors,Warriors,24 runs,Chennai,"Apr 15, 2013",T20
+347,Kings XI,KKR,Kings XI,4 runs,Mohali,"Apr 16, 2013",T20
+348,RCB,Daredevils,tied,,Bengaluru,"Apr 16, 2013",T20
+349,Warriors,Sunrisers,Sunrisers,11 runs,Pune,"Apr 17, 2013",T20
+350,Royals,Mum Indians,Royals,87 runs,Jaipur,"Apr 17, 2013",T20
+351,Daredevils,Super Kings,Super Kings,86 runs,Delhi,"Apr 18, 2013",T20
+352,Sunrisers,Kings XI,Sunrisers,5 wickets,Hyderabad (Deccan),"Apr 19, 2013",T20
+353,KKR,Super Kings,Super Kings,4 wickets,Kolkata,"Apr 20, 2013",T20
+354,RCB,Royals,RCB,7 wickets,Bengaluru,"Apr 20, 2013",T20
+355,Daredevils,Mum Indians,Daredevils,9 wickets,Delhi,"Apr 21, 2013",T20
+356,Kings XI,Warriors,Kings XI,7 wickets,Mohali,"Apr 21, 2013",T20
+357,Super Kings,Royals,Super Kings,5 wickets,Chennai,"Apr 22, 2013",T20
+358,RCB,Warriors,RCB,130 runs,Bengaluru,"Apr 23, 2013",T20
+359,Daredevils,Kings XI,Kings XI,5 wickets,Delhi,"Apr 23, 2013",T20
+360,KKR,Mum Indians,Mum Indians,5 wickets,Kolkata,"Apr 24, 2013",T20
+361,Super Kings,Sunrisers,Super Kings,5 wickets,Chennai,"Apr 25, 2013",T20
+362,KKR,Kings XI,KKR,6 wickets,Kolkata,"Apr 26, 2013",T20
+363,Royals,Sunrisers,Royals,8 wickets,Jaipur,"Apr 27, 2013",T20
+364,Mum Indians,RCB,Mum Indians,58 runs,Mumbai,"Apr 27, 2013",T20
+365,Super Kings,KKR,Super Kings,14 runs,Chennai,"Apr 28, 2013",T20
+366,Daredevils,Warriors,Daredevils,15 runs,Raipur,"Apr 28, 2013",T20
+367,Royals,RCB,Royals,4 wickets,Jaipur,"Apr 29, 2013",T20
+368,Mum Indians,Kings XI,Mum Indians,4 runs,Mumbai,"Apr 29, 2013",T20
+369,Warriors,Super Kings,Super Kings,37 runs,Pune,"Apr 30, 2013",T20
+370,Sunrisers,Mum Indians,Sunrisers,7 wickets,Hyderabad (Deccan),"May 1, 2013",T20
+371,Daredevils,KKR,Daredevils,7 wickets,Raipur,"May 1, 2013",T20
+372,Super Kings,Kings XI,Super Kings,15 runs,Chennai,"May 2, 2013",T20
+373,Warriors,RCB,RCB,17 runs,Pune,"May 2, 2013",T20
+374,KKR,Royals,KKR,8 wickets,Kolkata,"May 3, 2013",T20
+375,Sunrisers,Daredevils,Sunrisers,6 wickets,Hyderabad (Deccan),"May 4, 2013",T20
+376,Mum Indians,Super Kings,Mum Indians,60 runs,Mumbai,"May 5, 2013",T20
+377,Royals,Warriors,Royals,5 wickets,Jaipur,"May 5, 2013",T20
+378,Kings XI,RCB,Kings XI,6 wickets,Mohali,"May 6, 2013",T20
+379,Royals,Daredevils,Royals,9 wickets,Jaipur,"May 7, 2013",T20
+380,Mum Indians,KKR,Mum Indians,65 runs,Mumbai,"May 7, 2013",T20
+381,Sunrisers,Super Kings,Super Kings,77 runs,Hyderabad (Deccan),"May 8, 2013",T20
+382,Kings XI,Royals,Royals,8 wickets,Mohali,"May 9, 2013",T20
+383,Warriors,KKR,KKR,46 runs,Pune,"May 9, 2013",T20
+384,Daredevils,RCB,RCB,4 runs,Delhi,"May 10, 2013",T20
+385,Warriors,Mum Indians,Mum Indians,5 wickets,Pune,"May 11, 2013",T20
+386,Kings XI,Sunrisers,Sunrisers,30 runs,Mohali,"May 11, 2013",T20
+387,KKR,RCB,KKR,5 wickets,Ranchi,"May 12, 2013",T20
+388,Royals,Super Kings,Royals,5 wickets,Jaipur,"May 12, 2013",T20
+389,Mum Indians,Sunrisers,Mum Indians,7 wickets,Mumbai,"May 13, 2013",T20
+390,RCB,Kings XI,Kings XI,7 wickets,Bengaluru,"May 14, 2013",T20
+391,Super Kings,Daredevils,Super Kings,33 runs,Chennai,"May 14, 2013",T20
+392,KKR,Warriors,Warriors,7 runs,Ranchi,"May 15, 2013",T20
+393,Mum Indians,Royals,Mum Indians,14 runs,Mumbai,"May 15, 2013",T20
+394,Kings XI,Daredevils,Kings XI,7 runs,Dharamsala,"May 16, 2013",T20
+395,Sunrisers,Royals,Sunrisers,23 runs,Hyderabad (Deccan),"May 17, 2013",T20
+396,Kings XI,Mum Indians,Kings XI,50 runs,Dharamsala,"May 18, 2013",T20
+397,RCB,Super Kings,RCB,24 runs,Bengaluru,"May 18, 2013",T20
+398,Warriors,Daredevils,Warriors,38 runs,Pune,"May 19, 2013",T20
+399,Sunrisers,KKR,Sunrisers,5 wickets,Hyderabad (Deccan),"May 19, 2013",T20
+400,Super Kings,Mum Indians,Super Kings,48 runs,Delhi,"May 21, 2013",T20
+401,Royals,Sunrisers,Royals,4 wickets,Delhi,"May 22, 2013",T20
+402,Mum Indians,Royals,Mum Indians,4 wickets,Kolkata,"May 24, 2013",T20
+403,Super Kings,Mum Indians,Mum Indians,23 runs,Kolkata,"May 26, 2013",T20
+404,Mum Indians,KKR,KKR,41 runs,Abu Dhabi,"Apr 16, 2014",T20
+405,Daredevils,RCB,RCB,8 wickets,Sharjah,"Apr 17, 2014",T20
+406,Super Kings,Kings XI,Kings XI,6 wickets,Abu Dhabi,"Apr 18, 2014",T20
+407,Sunrisers,Royals,Royals,4 wickets,Abu Dhabi,"Apr 18, 2014",T20
+408,RCB,Mum Indians,RCB,7 wickets,Dubai (DSC),"Apr 19, 2014",T20
+409,KKR,Daredevils,Daredevils,4 wickets,Dubai (DSC),"Apr 19, 2014",T20
+410,Royals,Kings XI,Kings XI,7 wickets,Sharjah,"Apr 20, 2014",T20
+411,Super Kings,Daredevils,Super Kings,93 runs,Abu Dhabi,"Apr 21, 2014",T20
+412,Kings XI,Sunrisers,Kings XI,72 runs,Sharjah,"Apr 22, 2014",T20
+413,Royals,Super Kings,Super Kings,7 runs,Dubai (DSC),"Apr 23, 2014",T20
+414,RCB,KKR,KKR,2 runs,Sharjah,"Apr 24, 2014",T20
+415,Sunrisers,Daredevils,Sunrisers,4 runs,Dubai (DSC),"Apr 25, 2014",T20
+416,Super Kings,Mum Indians,Super Kings,7 wickets,Dubai (DSC),"Apr 25, 2014",T20
+417,Royals,RCB,Royals,6 wickets,Abu Dhabi,"Apr 26, 2014",T20
+418,KKR,Kings XI,Kings XI,23 runs,Abu Dhabi,"Apr 26, 2014",T20
+419,Daredevils,Mum Indians,Daredevils,6 wickets,Sharjah,"Apr 27, 2014",T20
+420,Sunrisers,Super Kings,Super Kings,5 wickets,Sharjah,"Apr 27, 2014",T20
+421,Kings XI,RCB,Kings XI,5 wickets,Dubai (DSC),"Apr 28, 2014",T20
+422,KKR,Royals,tied,,Abu Dhabi,"Apr 29, 2014",T20
+423,Mum Indians,Sunrisers,Sunrisers,15 runs,Dubai (DSC),"Apr 30, 2014",T20
+424,Super Kings,KKR,Super Kings,34 runs,Ranchi,"May 2, 2014",T20
+425,Mum Indians,Kings XI,Mum Indians,5 wickets,Mumbai,"May 3, 2014",T20
+426,Daredevils,Royals,Royals,7 wickets,Delhi,"May 3, 2014",T20
+427,RCB,Sunrisers,RCB,4 wickets,Bengaluru,"May 4, 2014",T20
+428,Royals,KKR,Royals,10 runs,Ahmedabad,"May 5, 2014",T20
+429,Daredevils,Super Kings,Super Kings,8 wickets,Delhi,"May 5, 2014",T20
+430,Mum Indians,RCB,Mum Indians,19 runs,Mumbai,"May 6, 2014",T20
+431,Daredevils,KKR,KKR,8 wickets,Delhi,"May 7, 2014",T20
+432,Kings XI,Super Kings,Kings XI,44 runs,Cuttack,"May 7, 2014",T20
+433,Royals,Sunrisers,Sunrisers,32 runs,Ahmedabad,"May 8, 2014",T20
+434,RCB,Kings XI,Kings XI,32 runs,Bengaluru,"May 9, 2014",T20
+435,Daredevils,Sunrisers,Sunrisers,8 wickets,Delhi,"May 10, 2014",T20
+436,Mum Indians,Super Kings,Super Kings,4 wickets,Mumbai,"May 10, 2014",T20
+437,Kings XI,KKR,KKR,9 wickets,Cuttack,"May 11, 2014",T20
+438,RCB,Royals,Royals,5 wickets,Bengaluru,"May 11, 2014",T20
+439,Sunrisers,Mum Indians,Mum Indians,7 wickets,Hyderabad (Deccan),"May 12, 2014",T20
+440,Super Kings,Royals,Super Kings,5 wickets,Ranchi,"May 13, 2014",T20
+441,RCB,Daredevils,RCB,16 runs,Bengaluru,"May 13, 2014",T20
+442,Sunrisers,Kings XI,Kings XI,6 wickets,Hyderabad (Deccan),"May 14, 2014",T20
+443,KKR,Mum Indians,KKR,6 wickets,Cuttack,"May 14, 2014",T20
+444,Royals,Daredevils,Royals,62 runs,Ahmedabad,"May 15, 2014",T20
+445,Super Kings,RCB,RCB,5 wickets,Ranchi,"May 18, 2014",T20
+446,Sunrisers,KKR,KKR,7 wickets,Hyderabad (Deccan),"May 18, 2014",T20
+447,Royals,Mum Indians,Mum Indians,25 runs,Ahmedabad,"May 19, 2014",T20
+448,Daredevils,Kings XI,Kings XI,4 wickets,Delhi,"May 19, 2014",T20
+449,Sunrisers,RCB,Sunrisers,7 wickets,Hyderabad (Deccan),"May 20, 2014",T20
+450,KKR,Super Kings,KKR,8 wickets,Kolkata,"May 20, 2014",T20
+451,Kings XI,Mum Indians,Mum Indians,7 wickets,Mohali,"May 21, 2014",T20
+452,KKR,RCB,KKR,30 runs,Kolkata,"May 22, 2014",T20
+453,Super Kings,Sunrisers,Sunrisers,6 wickets,Ranchi,"May 22, 2014",T20
+454,Mum Indians,Daredevils,Mum Indians,15 runs,Mumbai,"May 23, 2014",T20
+455,Kings XI,Royals,Kings XI,16 runs,Mohali,"May 23, 2014",T20
+456,RCB,Super Kings,Super Kings,8 wickets,Bengaluru,"May 24, 2014",T20
+457,KKR,Sunrisers,KKR,4 wickets,Kolkata,"May 24, 2014",T20
+458,Kings XI,Daredevils,Kings XI,7 wickets,Mohali,"May 25, 2014",T20
+459,Mum Indians,Royals,Mum Indians,5 wickets,Mumbai,"May 25, 2014",T20
+460,Kings XI,KKR,KKR,28 runs,Kolkata,"May 27-28, 2014",T20
+461,Super Kings,Mum Indians,Super Kings,7 wickets,Mumbai (BS),"May 28, 2014",T20
+462,Super Kings,Kings XI,Kings XI,24 runs,Mumbai,"May 30, 2014",T20
+463,KKR,Kings XI,KKR,3 wickets,Bengaluru,"Jun 1, 2014",T20
+464,KKR,Mum Indians,KKR,7 wickets,Kolkata,"Apr 8, 2015",T20
+465,Super Kings,Daredevils,Super Kings,1 run,Chennai,"Apr 9, 2015",T20
+466,Kings XI,Royals,Royals,26 runs,Pune,"Apr 10, 2015",T20
+467,Super Kings,Sunrisers,Super Kings,45 runs,Chennai,"Apr 11, 2015",T20
+468,KKR,RCB,RCB,3 wickets,Kolkata,"Apr 11, 2015",T20
+469,Daredevils,Royals,Royals,3 wickets,Delhi,"Apr 12, 2015",T20
+470,Mum Indians,Kings XI,Kings XI,18 runs,Mumbai,"Apr 12, 2015",T20
+471,RCB,Sunrisers,Sunrisers,8 wickets,Bengaluru,"Apr 13, 2015",T20
+472,Royals,Mum Indians,Royals,7 wickets,Ahmedabad,"Apr 14, 2015",T20
+473,Kings XI,Daredevils,Daredevils,5 wickets,Pune,"Apr 15, 2015",T20
+474,Sunrisers,Royals,Royals,6 wickets,Visakhapatnam,"Apr 16, 2015",T20
+475,Mum Indians,Super Kings,Super Kings,6 wickets,Mumbai,"Apr 17, 2015",T20
+476,Sunrisers,Daredevils,Daredevils,4 runs,Visakhapatnam,"Apr 18, 2015",T20
+477,Kings XI,KKR,KKR,4 wickets,Pune,"Apr 18, 2015",T20
+478,Royals,Super Kings,Royals,8 wickets,Ahmedabad,"Apr 19, 2015",T20
+479,RCB,Mum Indians,Mum Indians,18 runs,Bengaluru,"Apr 19, 2015",T20
+480,Daredevils,KKR,KKR,6 wickets,Delhi,"Apr 20, 2015",T20
+481,Royals,Kings XI,tied,,Ahmedabad,"Apr 21, 2015",T20
+482,Sunrisers,KKR,Sunrisers,16 runs,Visakhapatnam,"Apr 22, 2015",T20
+483,RCB,Super Kings,Super Kings,27 runs,Bengaluru,"Apr 22, 2015",T20
+484,Daredevils,Mum Indians,Daredevils,37 runs,Delhi,"Apr 23, 2015",T20
+485,Royals,RCB,RCB,9 wickets,Ahmedabad,"Apr 24, 2015",T20
+486,Mum Indians,Sunrisers,Mum Indians,20 runs,Mumbai,"Apr 25, 2015",T20
+487,Super Kings,Kings XI,Super Kings,97 runs,Chennai,"Apr 25, 2015",T20
+488,KKR,Royals,abandoned,,Kolkata,"Apr 26, 2015",T20
+489,Daredevils,RCB,RCB,10 wickets,Delhi,"Apr 26, 2015",T20
+490,Kings XI,Sunrisers,Sunrisers,20 runs,Mohali,"Apr 27, 2015",T20
+491,Super Kings,KKR,Super Kings,2 runs,Chennai,"Apr 28, 2015",T20
+492,RCB,Royals,no result,,Bengaluru,"Apr 29, 2015",T20
+493,KKR,Super Kings,KKR,7 wickets,Kolkata,"Apr 30, 2015",T20
+494,Daredevils,Kings XI,Daredevils,9 wickets,Delhi,"May 1, 2015",T20
+495,Mum Indians,Royals,Mum Indians,8 runs,Mumbai,"May 1, 2015",T20
+496,RCB,KKR,RCB,7 wickets,Bengaluru,"May 2, 2015",T20
+497,Sunrisers,Super Kings,Sunrisers,22 runs,Hyderabad (Deccan),"May 2, 2015",T20
+498,Kings XI,Mum Indians,Mum Indians,23 runs,Mohali,"May 3, 2015",T20
+499,Royals,Daredevils,Royals,14 runs,Mumbai (BS),"May 3, 2015",T20
+500,Super Kings,RCB,Super Kings,24 runs,Chennai,"May 4, 2015",T20
+501,KKR,Sunrisers,KKR,35 runs,Kolkata,"May 4, 2015",T20
+502,Mum Indians,Daredevils,Mum Indians,5 wickets,Mumbai,"May 5, 2015",T20
+503,RCB,Kings XI,RCB,138 runs,Bengaluru,"May 6, 2015",T20
+504,Royals,Sunrisers,Sunrisers,7 runs,Mumbai (BS),"May 7, 2015",T20
+505,KKR,Daredevils,KKR,13 runs,Kolkata,"May 7, 2015",T20
+506,Super Kings,Mum Indians,Mum Indians,6 wickets,Chennai,"May 8, 2015",T20
+507,KKR,Kings XI,KKR,1 wicket,Kolkata,"May 9, 2015",T20
+508,Daredevils,Sunrisers,Sunrisers,6 runs,Raipur,"May 9, 2015",T20
+509,Mum Indians,RCB,RCB,39 runs,Mumbai,"May 10, 2015",T20
+510,Super Kings,Royals,Super Kings,12 runs,Chennai,"May 10, 2015",T20
+511,Sunrisers,Kings XI,Sunrisers,5 runs,Hyderabad (Deccan),"May 11, 2015",T20
+512,Daredevils,Super Kings,Daredevils,6 wickets,Raipur,"May 12, 2015",T20
+513,Kings XI,RCB,Kings XI,22 runs,Mohali,"May 13, 2015",T20
+514,Mum Indians,KKR,Mum Indians,5 runs,Mumbai,"May 14, 2015",T20
+515,Sunrisers,RCB,RCB,6 wickets,Hyderabad (Deccan),"May 15, 2015",T20
+516,Kings XI,Super Kings,Super Kings,7 wickets,Mohali,"May 16, 2015",T20
+517,Royals,KKR,Royals,9 runs,Mumbai (BS),"May 16, 2015",T20
+518,RCB,Daredevils,no result,,Bengaluru,"May 17, 2015",T20
+519,Sunrisers,Mum Indians,Mum Indians,9 wickets,Hyderabad (Deccan),"May 17, 2015",T20
+520,Super Kings,Mum Indians,Mum Indians,25 runs,Mumbai,"May 19, 2015",T20
+521,RCB,Royals,RCB,71 runs,Pune,"May 20, 2015",T20
+522,Super Kings,RCB,Super Kings,3 wickets,Ranchi,"May 22, 2015",T20
+523,Mum Indians,Super Kings,Mum Indians,41 runs,Kolkata,"May 24, 2015",T20
+524,Mum Indians,Supergiants,Supergiants,9 wickets,Mumbai,"Apr 9, 2016",T20
+525,KKR,Daredevils,KKR,9 wickets,Kolkata,"Apr 10, 2016",T20
+526,Kings XI,Guj Lions,Guj Lions,5 wickets,Mohali,"Apr 11, 2016",T20
+527,RCB,Sunrisers,RCB,45 runs,Bengaluru,"Apr 12, 2016",T20
+528,KKR,Mum Indians,Mum Indians,6 wickets,Kolkata,"Apr 13, 2016",T20
+529,Guj Lions,Supergiants,Guj Lions,7 wickets,Rajkot,"Apr 14, 2016",T20
+530,Daredevils,Kings XI,Daredevils,8 wickets,Delhi,"Apr 15, 2016",T20
+531,Sunrisers,KKR,KKR,8 wickets,Hyderabad (Deccan),"Apr 16, 2016",T20
+532,Mum Indians,Guj Lions,Guj Lions,3 wickets,Mumbai,"Apr 16, 2016",T20
+533,Kings XI,Supergiants,Kings XI,6 wickets,Mohali,"Apr 17, 2016",T20
+534,RCB,Daredevils,Daredevils,7 wickets,Bengaluru,"Apr 17, 2016",T20
+535,Sunrisers,Mum Indians,Sunrisers,7 wickets,Hyderabad (Deccan),"Apr 18, 2016",T20
+536,Kings XI,KKR,KKR,6 wickets,Mohali,"Apr 19, 2016",T20
+537,Mum Indians,RCB,Mum Indians,6 wickets,Mumbai,"Apr 20, 2016",T20
+538,Guj Lions,Sunrisers,Sunrisers,10 wickets,Rajkot,"Apr 21, 2016",T20
+539,Supergiants,RCB,RCB,13 runs,Pune,"Apr 22, 2016",T20
+540,Daredevils,Mum Indians,Daredevils,10 runs,Delhi,"Apr 23, 2016",T20
+541,Sunrisers,Kings XI,Sunrisers,5 wickets,Hyderabad (Deccan),"Apr 23, 2016",T20
+542,Guj Lions,RCB,Guj Lions,6 wickets,Rajkot,"Apr 24, 2016",T20
+543,Supergiants,KKR,KKR,2 wickets,Pune,"Apr 24, 2016",T20
+544,Kings XI,Mum Indians,Mum Indians,25 runs,Mohali,"Apr 25, 2016",T20
+545,Sunrisers,Supergiants,Supergiants,34 runs,Hyderabad (Deccan),"Apr 26, 2016",T20
+546,Daredevils,Guj Lions,Guj Lions,1 run,Delhi,"Apr 27, 2016",T20
+547,Mum Indians,KKR,Mum Indians,6 wickets,Mumbai,"Apr 28, 2016",T20
+548,Supergiants,Guj Lions,Guj Lions,3 wickets,Pune,"Apr 29, 2016",T20
+549,Daredevils,KKR,Daredevils,27 runs,Delhi,"Apr 30, 2016",T20
+550,Sunrisers,RCB,Sunrisers,15 runs,Hyderabad (Deccan),"Apr 30, 2016",T20
+551,Guj Lions,Kings XI,Kings XI,23 runs,Rajkot,"May 1, 2016",T20
+552,Supergiants,Mum Indians,Mum Indians,8 wickets,Pune,"May 1, 2016",T20
+553,RCB,KKR,KKR,5 wickets,Bengaluru,"May 2, 2016",T20
+554,Guj Lions,Daredevils,Daredevils,8 wickets,Rajkot,"May 3, 2016",T20
+555,KKR,Kings XI,KKR,7 runs,Kolkata,"May 4, 2016",T20
+556,Daredevils,Supergiants,Supergiants,7 wickets,Delhi,"May 5, 2016",T20
+557,Sunrisers,Guj Lions,Sunrisers,5 wickets,Hyderabad (Deccan),"May 6, 2016",T20
+558,RCB,Supergiants,RCB,7 wickets,Bengaluru,"May 7, 2016",T20
+559,Kings XI,Daredevils,Kings XI,9 runs,Mohali,"May 7, 2016",T20
+560,Mum Indians,Sunrisers,Sunrisers,85 runs,Visakhapatnam,"May 8, 2016",T20
+561,KKR,Guj Lions,Guj Lions,5 wickets,Kolkata,"May 8, 2016",T20
+562,Kings XI,RCB,RCB,1 run,Mohali,"May 9, 2016",T20
+563,Supergiants,Sunrisers,Sunrisers,4 runs,Visakhapatnam,"May 10, 2016",T20
+564,RCB,Mum Indians,Mum Indians,6 wickets,Bengaluru,"May 11, 2016",T20
+565,Sunrisers,Daredevils,Daredevils,7 wickets,Hyderabad (Deccan),"May 12, 2016",T20
+566,Mum Indians,Kings XI,Kings XI,7 wickets,Visakhapatnam,"May 13, 2016",T20
+567,RCB,Guj Lions,RCB,144 runs,Bengaluru,"May 14, 2016",T20
+568,KKR,Supergiants,KKR,8 wickets,Kolkata,"May 14, 2016",T20
+569,Kings XI,Sunrisers,Sunrisers,7 wickets,Mohali,"May 15, 2016",T20
+570,Mum Indians,Daredevils,Mum Indians,80 runs,Visakhapatnam,"May 15, 2016",T20
+571,KKR,RCB,RCB,9 wickets,Kolkata,"May 16, 2016",T20
+572,Supergiants,Daredevils,Supergiants,19 runs,Visakhapatnam,"May 17, 2016",T20
+573,RCB,Kings XI,RCB,82 runs,Bengaluru,"May 18, 2016",T20
+574,Guj Lions,KKR,Guj Lions,6 wickets,Kanpur,"May 19, 2016",T20
+575,Daredevils,Sunrisers,Daredevils,6 wickets,Raipur,"May 20, 2016",T20
+576,Supergiants,Kings XI,Supergiants,4 wickets,Visakhapatnam,"May 21, 2016",T20
+577,Guj Lions,Mum Indians,Guj Lions,6 wickets,Kanpur,"May 21, 2016",T20
+578,KKR,Sunrisers,KKR,22 runs,Kolkata,"May 22, 2016",T20
+579,Daredevils,RCB,RCB,6 wickets,Raipur,"May 22, 2016",T20
+580,Guj Lions,RCB,RCB,4 wickets,Bengaluru,"May 24, 2016",T20
+581,Sunrisers,KKR,Sunrisers,22 runs,Delhi,"May 25, 2016",T20
+582,Guj Lions,Sunrisers,Sunrisers,4 wickets,Delhi,"May 27, 2016",T20
+583,RCB,Sunrisers,Sunrisers,8 runs,Bengaluru,"May 29, 2016",T20
+584,Sunrisers,RCB,Sunrisers,35 runs,Hyderabad (Deccan),"Apr 5, 2017",T20
+585,Supergiant,Mum Indians,Supergiant,7 wickets,Pune,"Apr 6, 2017",T20
+586,Guj Lions,KKR,KKR,10 wickets,Rajkot,"Apr 7, 2017",T20
+587,Kings XI,Supergiant,Kings XI,6 wickets,Indore,"Apr 8, 2017",T20
+588,RCB,Daredevils,RCB,15 runs,Bengaluru,"Apr 8, 2017",T20
+589,Sunrisers,Guj Lions,Sunrisers,9 wickets,Hyderabad (Deccan),"Apr 9, 2017",T20
+590,Mum Indians,KKR,Mum Indians,4 wickets,Mumbai,"Apr 9, 2017",T20
+591,Kings XI,RCB,Kings XI,8 wickets,Indore,"Apr 10, 2017",T20
+592,Supergiant,Daredevils,Daredevils,97 runs,Pune,"Apr 11, 2017",T20
+593,Mum Indians,Sunrisers,Mum Indians,4 wickets,Mumbai,"Apr 12, 2017",T20
+594,KKR,Kings XI,KKR,8 wickets,Kolkata,"Apr 13, 2017",T20
+595,RCB,Mum Indians,Mum Indians,4 wickets,Bengaluru,"Apr 14, 2017",T20
+596,Guj Lions,Supergiant,Guj Lions,7 wickets,Rajkot,"Apr 14, 2017",T20
+597,KKR,Sunrisers,KKR,17 runs,Kolkata,"Apr 15, 2017",T20
+598,Daredevils,Kings XI,Daredevils,51 runs,Delhi,"Apr 15, 2017",T20
+599,Mum Indians,Guj Lions,Mum Indians,6 wickets,Mumbai,"Apr 16, 2017",T20
+600,RCB,Supergiant,Supergiant,27 runs,Bengaluru,"Apr 16, 2017",T20
+601,Daredevils,KKR,KKR,4 wickets,Delhi,"Apr 17, 2017",T20
+602,Sunrisers,Kings XI,Sunrisers,5 runs,Hyderabad (Deccan),"Apr 17, 2017",T20
+603,Guj Lions,RCB,RCB,21 runs,Rajkot,"Apr 18, 2017",T20
+604,Sunrisers,Daredevils,Sunrisers,15 runs,Hyderabad (Deccan),"Apr 19, 2017",T20
+605,Kings XI,Mum Indians,Mum Indians,8 wickets,Indore,"Apr 20, 2017",T20
+606,KKR,Guj Lions,Guj Lions,4 wickets,Kolkata,"Apr 21, 2017",T20
+607,Supergiant,Sunrisers,Supergiant,6 wickets,Pune,"Apr 22, 2017",T20
+608,Mum Indians,Daredevils,Mum Indians,14 runs,Mumbai,"Apr 22, 2017",T20
+609,Guj Lions,Kings XI,Kings XI,26 runs,Rajkot,"Apr 23, 2017",T20
+610,KKR,RCB,KKR,82 runs,Kolkata,"Apr 23, 2017",T20
+611,Mum Indians,Supergiant,Supergiant,3 runs,Mumbai,"Apr 24, 2017",T20
+612,RCB,Sunrisers,abandoned,,Bengaluru,"Apr 25, 2017",T20
+613,Supergiant,KKR,KKR,7 wickets,Pune,"Apr 26, 2017",T20
+614,RCB,Guj Lions,Guj Lions,7 wickets,Bengaluru,"Apr 27, 2017",T20
+615,KKR,Daredevils,KKR,7 wickets,Kolkata,"Apr 28, 2017",T20
+616,Kings XI,Sunrisers,Sunrisers,26 runs,Mohali,"Apr 28, 2017",T20
+617,Supergiant,RCB,Supergiant,61 runs,Pune,"Apr 29, 2017",T20
+618,Guj Lions,Mum Indians,tied,,Rajkot,"Apr 29, 2017",T20
+619,Kings XI,Daredevils,Kings XI,10 wickets,Mohali,"Apr 30, 2017",T20
+620,Sunrisers,KKR,Sunrisers,48 runs,Hyderabad (Deccan),"Apr 30, 2017",T20
+621,Mum Indians,RCB,Mum Indians,5 wickets,Mumbai,"May 1, 2017",T20
+622,Supergiant,Guj Lions,Supergiant,5 wickets,Pune,"May 1, 2017",T20
+623,Daredevils,Sunrisers,Daredevils,6 wickets,Delhi,"May 2, 2017",T20
+624,KKR,Supergiant,Supergiant,4 wickets,Kolkata,"May 3, 2017",T20
+625,Daredevils,Guj Lions,Daredevils,7 wickets,Delhi,"May 4, 2017",T20
+626,RCB,Kings XI,Kings XI,19 runs,Bengaluru,"May 5, 2017",T20
+627,Sunrisers,Supergiant,Supergiant,12 runs,Hyderabad (Deccan),"May 6, 2017",T20
+628,Daredevils,Mum Indians,Mum Indians,146 runs,Delhi,"May 6, 2017",T20
+629,RCB,KKR,KKR,6 wickets,Bengaluru,"May 7, 2017",T20
+630,Kings XI,Guj Lions,Guj Lions,6 wickets,Mohali,"May 7, 2017",T20
+631,Sunrisers,Mum Indians,Sunrisers,7 wickets,Hyderabad (Deccan),"May 8, 2017",T20
+632,Kings XI,KKR,Kings XI,14 runs,Mohali,"May 9, 2017",T20
+633,Guj Lions,Daredevils,Daredevils,2 wickets,Kanpur,"May 10, 2017",T20
+634,Mum Indians,Kings XI,Kings XI,7 runs,Mumbai,"May 11, 2017",T20
+635,Daredevils,Supergiant,Daredevils,7 runs,Delhi,"May 12, 2017",T20
+636,Guj Lions,Sunrisers,Sunrisers,8 wickets,Kanpur,"May 13, 2017",T20
+637,KKR,Mum Indians,Mum Indians,9 runs,Kolkata,"May 13, 2017",T20
+638,Supergiant,Kings XI,Supergiant,9 wickets,Pune,"May 14, 2017",T20
+639,Daredevils,RCB,RCB,10 runs,Delhi,"May 14, 2017",T20
+640,Mum Indians,Supergiant,Supergiant,20 runs,Mumbai,"May 16, 2017",T20
+641,Sunrisers,KKR,KKR,7 wickets,Bengaluru,"May 17, 2017",T20
+642,Mum Indians,KKR,Mum Indians,6 wickets,Bengaluru,"May 19, 2017",T20
+643,Mum Indians,Supergiant,Mum Indians,1 run,Hyderabad (Deccan),"May 21, 2017",T20
+644,Mum Indians,Super Kings,Super Kings,1 wicket,Mumbai,"Apr 7, 2018",T20
+645,Kings XI,Daredevils,Kings XI,6 wickets,Mohali,"Apr 8, 2018",T20
+646,KKR,RCB,KKR,4 wickets,Kolkata,"Apr 8, 2018",T20
+647,Sunrisers,Royals,Sunrisers,9 wickets,Hyderabad (Deccan),"Apr 9, 2018",T20
+648,Super Kings,KKR,Super Kings,5 wickets,Chennai,"Apr 10, 2018",T20
+649,Royals,Daredevils,Royals,10 runs,Jaipur,"Apr 11, 2018",T20
+650,Sunrisers,Mum Indians,Sunrisers,1 wicket,Hyderabad (Deccan),"Apr 12, 2018",T20
+651,RCB,Kings XI,RCB,4 wickets,Bengaluru,"Apr 13, 2018",T20
+652,Mum Indians,Daredevils,Daredevils,7 wickets,Mumbai,"Apr 14, 2018",T20
+653,KKR,Sunrisers,Sunrisers,5 wickets,Kolkata,"Apr 14, 2018",T20
+654,RCB,Royals,Royals,19 runs,Bengaluru,"Apr 15, 2018",T20
+655,Kings XI,Super Kings,Kings XI,4 runs,Mohali,"Apr 15, 2018",T20
+656,KKR,Daredevils,KKR,71 runs,Kolkata,"Apr 16, 2018",T20
+657,Mum Indians,RCB,Mum Indians,46 runs,Mumbai,"Apr 17, 2018",T20
+658,Royals,KKR,KKR,7 wickets,Jaipur,"Apr 18, 2018",T20
+659,Kings XI,Sunrisers,Kings XI,15 runs,Mohali,"Apr 19, 2018",T20
+660,Super Kings,Royals,Super Kings,64 runs,Pune,"Apr 20, 2018",T20
+661,KKR,Kings XI,Kings XI,9 wickets,Kolkata,"Apr 21, 2018",T20
+662,RCB,Daredevils,RCB,6 wickets,Bengaluru,"Apr 21, 2018",T20
+663,Sunrisers,Super Kings,Super Kings,4 runs,Hyderabad (Deccan),"Apr 22, 2018",T20
+664,Royals,Mum Indians,Royals,3 wickets,Jaipur,"Apr 22, 2018",T20
+665,Daredevils,Kings XI,Kings XI,4 runs,Delhi,"Apr 23, 2018",T20
+666,Mum Indians,Sunrisers,Sunrisers,31 runs,Mumbai,"Apr 24, 2018",T20
+667,RCB,Super Kings,Super Kings,5 wickets,Bengaluru,"Apr 25, 2018",T20
+668,Sunrisers,Kings XI,Sunrisers,13 runs,Hyderabad (Deccan),"Apr 26, 2018",T20
+669,Daredevils,KKR,Daredevils,55 runs,Delhi,"Apr 27, 2018",T20
+670,Super Kings,Mum Indians,Mum Indians,8 wickets,Pune,"Apr 28, 2018",T20
+671,Royals,Sunrisers,Sunrisers,11 runs,Jaipur,"Apr 29, 2018",T20
+672,RCB,KKR,KKR,6 wickets,Bengaluru,"Apr 29, 2018",T20
+673,Super Kings,Daredevils,Super Kings,13 runs,Pune,"Apr 30, 2018",T20
+674,RCB,Mum Indians,RCB,14 runs,Bengaluru,"May 1, 2018",T20
+675,Daredevils,Royals,Daredevils,4 runs,Delhi,"May 2, 2018",T20
+676,KKR,Super Kings,KKR,6 wickets,Kolkata,"May 3, 2018",T20
+677,Kings XI,Mum Indians,Mum Indians,6 wickets,Indore,"May 4, 2018",T20
+678,Super Kings,RCB,Super Kings,6 wickets,Pune,"May 5, 2018",T20
+679,Sunrisers,Daredevils,Sunrisers,7 wickets,Hyderabad (Deccan),"May 5, 2018",T20
+680,Mum Indians,KKR,Mum Indians,13 runs,Mumbai,"May 6, 2018",T20
+681,Kings XI,Royals,Kings XI,6 wickets,Indore,"May 6, 2018",T20
+682,Sunrisers,RCB,Sunrisers,5 runs,Hyderabad (Deccan),"May 7, 2018",T20
+683,Royals,Kings XI,Royals,15 runs,Jaipur,"May 8, 2018",T20
+684,KKR,Mum Indians,Mum Indians,102 runs,Kolkata,"May 9, 2018",T20
+685,Daredevils,Sunrisers,Sunrisers,9 wickets,Delhi,"May 10, 2018",T20
+686,Royals,Super Kings,Royals,4 wickets,Jaipur,"May 11, 2018",T20
+687,Kings XI,KKR,KKR,31 runs,Indore,"May 12, 2018",T20
+688,Daredevils,RCB,RCB,5 wickets,Delhi,"May 12, 2018",T20
+689,Super Kings,Sunrisers,Super Kings,8 wickets,Pune,"May 13, 2018",T20
+690,Mum Indians,Royals,Royals,7 wickets,Mumbai,"May 13, 2018",T20
+691,Kings XI,RCB,RCB,10 wickets,Indore,"May 14, 2018",T20
+692,KKR,Royals,KKR,6 wickets,Kolkata,"May 15, 2018",T20
+693,Mum Indians,Kings XI,Mum Indians,3 runs,Mumbai,"May 16, 2018",T20
+694,RCB,Sunrisers,RCB,14 runs,Bengaluru,"May 17, 2018",T20
+695,Daredevils,Super Kings,Daredevils,34 runs,Delhi,"May 18, 2018",T20
+696,Royals,RCB,Royals,30 runs,Jaipur,"May 19, 2018",T20
+697,Sunrisers,KKR,KKR,5 wickets,Hyderabad (Deccan),"May 19, 2018",T20
+698,Daredevils,Mum Indians,Daredevils,11 runs,Delhi,"May 20, 2018",T20
+699,Super Kings,Kings XI,Super Kings,5 wickets,Pune,"May 20, 2018",T20
+700,Sunrisers,Super Kings,Super Kings,2 wickets,Mumbai,"May 22, 2018",T20
+701,KKR,Royals,KKR,25 runs,Kolkata,"May 23, 2018",T20
+702,KKR,Sunrisers,Sunrisers,14 runs,Kolkata,"May 25, 2018",T20
+703,Super Kings,Sunrisers,Super Kings,8 wickets,Mumbai,"May 27, 2018",T20
+704,Super Kings,RCB,Super Kings,7 wickets,Chennai,"Mar 23, 2019",T20
+705,KKR,Sunrisers,KKR,6 wickets,Kolkata,"Mar 24, 2019",T20
+706,Mum Indians,Capitals,Capitals,37 runs,Mumbai,"Mar 24, 2019",T20
+707,Royals,Kings XI,Kings XI,14 runs,Jaipur,"Mar 25, 2019",T20
+708,Capitals,Super Kings,Super Kings,6 wickets,Delhi,"Mar 26, 2019",T20
+709,KKR,Kings XI,KKR,28 runs,Kolkata,"Mar 27, 2019",T20
+710,RCB,Mum Indians,Mum Indians,6 runs,Bengaluru,"Mar 28, 2019",T20
+711,Sunrisers,Royals,Sunrisers,5 wickets,Hyderabad (Deccan),"Mar 29, 2019",T20
+712,Kings XI,Mum Indians,Kings XI,8 wickets,Mohali,"Mar 30, 2019",T20
+713,Capitals,KKR,tied,,Delhi,"Mar 30, 2019",T20
+714,Sunrisers,RCB,Sunrisers,118 runs,Hyderabad (Deccan),"Mar 31, 2019",T20
+715,Super Kings,Royals,Super Kings,8 runs,Chennai,"Mar 31, 2019",T20
+716,Kings XI,Capitals,Kings XI,14 runs,Mohali,"Apr 1, 2019",T20
+717,Royals,RCB,Royals,7 wickets,Jaipur,"Apr 2, 2019",T20
+718,Mum Indians,Super Kings,Mum Indians,37 runs,Mumbai,"Apr 3, 2019",T20
+719,Capitals,Sunrisers,Sunrisers,5 wickets,Delhi,"Apr 4, 2019",T20
+720,RCB,KKR,KKR,5 wickets,Bengaluru,"Apr 5, 2019",T20
+721,Super Kings,Kings XI,Super Kings,22 runs,Chennai,"Apr 6, 2019",T20
+722,Sunrisers,Mum Indians,Mum Indians,40 runs,Hyderabad (Deccan),"Apr 6, 2019",T20
+723,RCB,Capitals,Capitals,4 wickets,Bengaluru,"Apr 7, 2019",T20
+724,Royals,KKR,KKR,8 wickets,Jaipur,"Apr 7, 2019",T20
+725,Kings XI,Sunrisers,Kings XI,6 wickets,Mohali,"Apr 8, 2019",T20
+726,Super Kings,KKR,Super Kings,7 wickets,Chennai,"Apr 9, 2019",T20
+727,Mum Indians,Kings XI,Mum Indians,3 wickets,Mumbai,"Apr 10, 2019",T20
+728,Royals,Super Kings,Super Kings,4 wickets,Jaipur,"Apr 11, 2019",T20
+729,KKR,Capitals,Capitals,7 wickets,Kolkata,"Apr 12, 2019",T20
+730,Mum Indians,Royals,Royals,4 wickets,Mumbai,"Apr 13, 2019",T20
+731,Kings XI,RCB,RCB,8 wickets,Mohali,"Apr 13, 2019",T20
+732,KKR,Super Kings,Super Kings,5 wickets,Kolkata,"Apr 14, 2019",T20
+733,Sunrisers,Capitals,Capitals,39 runs,Hyderabad (Deccan),"Apr 14, 2019",T20
+734,Mum Indians,RCB,Mum Indians,5 wickets,Mumbai,"Apr 15, 2019",T20
+735,Kings XI,Royals,Kings XI,12 runs,Mohali,"Apr 16, 2019",T20
+736,Sunrisers,Super Kings,Sunrisers,6 wickets,Hyderabad (Deccan),"Apr 17, 2019",T20
+737,Capitals,Mum Indians,Mum Indians,40 runs,Delhi,"Apr 18, 2019",T20
+738,KKR,RCB,RCB,10 runs,Kolkata,"Apr 19, 2019",T20
+739,Royals,Mum Indians,Royals,5 wickets,Jaipur,"Apr 20, 2019",T20
+740,Capitals,Kings XI,Capitals,5 wickets,Delhi,"Apr 20, 2019",T20
+741,Sunrisers,KKR,Sunrisers,9 wickets,Hyderabad (Deccan),"Apr 21, 2019",T20
+742,RCB,Super Kings,RCB,1 run,Bengaluru,"Apr 21, 2019",T20
+743,Royals,Capitals,Capitals,6 wickets,Jaipur,"Apr 22, 2019",T20
+744,Super Kings,Sunrisers,Super Kings,6 wickets,Chennai,"Apr 23, 2019",T20
+745,RCB,Kings XI,RCB,17 runs,Bengaluru,"Apr 24, 2019",T20
+746,KKR,Royals,Royals,3 wickets,Kolkata,"Apr 25, 2019",T20
+747,Super Kings,Mum Indians,Mum Indians,46 runs,Chennai,"Apr 26, 2019",T20
+748,Royals,Sunrisers,Royals,7 wickets,Jaipur,"Apr 27, 2019",T20
+749,Capitals,RCB,Capitals,16 runs,Delhi,"Apr 28, 2019",T20
+750,KKR,Mum Indians,KKR,34 runs,Kolkata,"Apr 28, 2019",T20
+751,Sunrisers,Kings XI,Sunrisers,45 runs,Hyderabad (Deccan),"Apr 29, 2019",T20
+752,RCB,Royals,no result,,Bengaluru,"Apr 30, 2019",T20
+753,Super Kings,Capitals,Super Kings,80 runs,Chennai,"May 1, 2019",T20
+754,Mum Indians,Sunrisers,tied,,Mumbai,"May 2, 2019",T20
+755,Kings XI,KKR,KKR,7 wickets,Mohali,"May 3, 2019",T20
+756,Capitals,Royals,Capitals,5 wickets,Delhi,"May 4, 2019",T20
+757,RCB,Sunrisers,RCB,4 wickets,Bengaluru,"May 4, 2019",T20
+758,Kings XI,Super Kings,Kings XI,6 wickets,Mohali,"May 5, 2019",T20
+759,Mum Indians,KKR,Mum Indians,9 wickets,Mumbai,"May 5, 2019",T20
+760,Mum Indians,Super Kings,Mum Indians,6 wickets,Chennai,"May 7, 2019",T20
+761,Capitals,Sunrisers,Capitals,2 wickets,Visakhapatnam,"May 8, 2019",T20
+762,Super Kings,Capitals,Super Kings,6 wickets,Visakhapatnam,"May 10, 2019",T20
+763,Mum Indians,Super Kings,Mum Indians,1 run,Hyderabad (Deccan),"May 12, 2019",T20
